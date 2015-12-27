@@ -1,0 +1,2 @@
+# idea
+storing my idea
